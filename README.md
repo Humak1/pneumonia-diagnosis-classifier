@@ -26,19 +26,6 @@ Robustness. Models were compared on held-out validation data using metrics appro
 
 Focus. The analysis closes with a clear recommendation on whether the follow-on study should be funded, together with the caveats a funding panel needs in order to weigh that recommendation.
 
-Results
-
-[ Replace this section with your headline numbers. ]
-
-Model	Key metric	Key metric
-Best single model		
-Best ensemble		
-Baseline		
-
-Recommendation: [ state your funding recommendation and the main reason for it ]
-
-Main caveats: [ the limitations a panel should weigh — sample size, which measurements were available, how performance might change at larger scale ]
-
 Writing for the audience
 
 The report was written for a panel with very different priorities and levels of technical expertise: clinicians, hospital managers, IT managers, patients and funders. A clinician cares whether the model misses cases. A hospital manager cares whether it saves time. A funder cares whether the result will hold at larger scale.
